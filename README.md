@@ -1,4 +1,4 @@
-#This is my local Repo
+# This is my local Repo
 PS C:\Users\mange\Desktop\DemoGitHub\localRepo>git branch -M main
 PS C:\Users\mange\Desktop\DemoGitHub\localRepo>git branch
 * main
@@ -16,4 +16,3 @@ PS C:\Users\mange\Desktop\DemoGitHub\localRepo>git add .
 PS C:\Users\mange\Desktop\DemoGitHub\localRepo>git commit -m "create new paragraph"             
 [main 014e746] create new paragraph
  1 file changed, 32 insertions(+)
- 
