@@ -22,3 +22,6 @@ git remote add origin <link>
 git remote -v =>to verify origin
 git branch (to check branch)
 git branch -M main 
+
+git push -u origin main
+-u for get upstream 
