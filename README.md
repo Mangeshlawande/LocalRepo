@@ -16,3 +16,9 @@ PS C:\Users\mange\Desktop\DemoGitHub\localRepo>git add .
 PS C:\Users\mange\Desktop\DemoGitHub\localRepo>git commit -m "create new paragraph"             
 [main 014e746] create new paragraph
  1 file changed, 32 insertions(+)
+CLEAR
+=============================
+git remote add origin <link>
+git remote -v =>to verify origin
+git branch (to check branch)
+git branch -M main 
